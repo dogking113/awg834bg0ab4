@@ -1,0 +1,125 @@
+{
+ "ver": 1,
+ "parts": [
+  {
+   "file": "sfx_7a4c8b31.pak",
+   "kind": "sfx",
+   "bytes": 2553771,
+   "sha256": "7a4c8b31c4c7bfb5e84f0e9fd198fbd37d4bd0be384c73a87cb0be794793dc48"
+  },
+  {
+   "file": "voice_19262337.pak",
+   "kind": "voice",
+   "bytes": 8276816,
+   "sha256": "19262337f3aeaba52df2f5643942b8198541815d18bc4372e2b5e8e3cf0a8f22"
+  },
+  {
+   "file": "voice_868820d5.pak",
+   "kind": "voice",
+   "bytes": 8276382,
+   "sha256": "868820d5e4a66ab189b726dfbf10daaa07ccb14aa7271553ecdb6c55f680ca62"
+  },
+  {
+   "file": "voice_3b3c1b95.pak",
+   "kind": "voice",
+   "bytes": 8265151,
+   "sha256": "3b3c1b9567f6c0f9cf3c7c5cfba5548bb7f72796c1eceef39547ae56f53708ef"
+  },
+  {
+   "file": "voice_1c9422fd.pak",
+   "kind": "voice",
+   "bytes": 8277883,
+   "sha256": "1c9422fdc017ff1c7f605248e9a89d71a7dca845063e334c65d851326ea22e0f"
+  },
+  {
+   "file": "voice_2668fd93.pak",
+   "kind": "voice",
+   "bytes": 8320579,
+   "sha256": "2668fd93e42c48ab596a3ea14ed0323d6cac8b84dfa05436e6d8f8c1d3678ea3"
+  },
+  {
+   "file": "voice_449617ae.pak",
+   "kind": "voice",
+   "bytes": 3228746,
+   "sha256": "449617aeb6cfe0bca41c70f7a95b07018d70f71aaf1eaf2c0bb381ece7f0e56a"
+  },
+  {
+   "file": "voice_mp3_89976f99.pak",
+   "kind": "voice",
+   "bytes": 8136062,
+   "sha256": "89976f9921294bf1f5d2db4bef02efbf2cbc76d284de79ef94ce8842366145d6",
+   "codec": "mp3"
+  },
+  {
+   "file": "voice_mp3_085dff75.pak",
+   "kind": "voice",
+   "bytes": 8137587,
+   "sha256": "085dff75109803db9c73939a09cb247c9e479b98d2c905aa262b53bdb136cf72",
+   "codec": "mp3"
+  },
+  {
+   "file": "voice_mp3_a7e764cd.pak",
+   "kind": "voice",
+   "bytes": 8141983,
+   "sha256": "a7e764cd21110ed02efd955528b063306c4cf9f6faaade335949985d930fc38d",
+   "codec": "mp3"
+  },
+  {
+   "file": "voice_mp3_2cdcbe7b.pak",
+   "kind": "voice",
+   "bytes": 8139360,
+   "sha256": "2cdcbe7bea82df8b9b7fdd358dea94606da7f51190dfa7c1012f8828d36fb336",
+   "codec": "mp3"
+  },
+  {
+   "file": "voice_mp3_2e96cebf.pak",
+   "kind": "voice",
+   "bytes": 8136816,
+   "sha256": "2e96cebfd8ed9e48699f164feefae5a87c8167614b959cd0fe3940b5856eec8d",
+   "codec": "mp3"
+  },
+  {
+   "file": "voice_mp3_80e41381.pak",
+   "kind": "voice",
+   "bytes": 8129997,
+   "sha256": "80e41381a8378c9fef43c80233c3f7e4753b68d50cb580c4faf6aac354d4a5b5",
+   "codec": "mp3"
+  },
+  {
+   "file": "voice_mp3_7c4a971b.pak",
+   "kind": "voice",
+   "bytes": 8122731,
+   "sha256": "7c4a971ba1c4499f4f1749eb04e09ba896b557e14d4620921b422c0458a0d647",
+   "codec": "mp3"
+  },
+  {
+   "file": "voice_mp3_7f51f22e.pak",
+   "kind": "voice",
+   "bytes": 8157909,
+   "sha256": "7f51f22eefb91c93c3bcc0bbc4502a4426271721b74394a64939d2909d38c819",
+   "codec": "mp3"
+  },
+  {
+   "file": "voice_mp3_5b40c0b9.pak",
+   "kind": "voice",
+   "bytes": 8160055,
+   "sha256": "5b40c0b9ab957ee50809fb57271719bc6f9fb4e635f234543880b4e8fac53c07",
+   "codec": "mp3"
+  },
+  {
+   "file": "voice_mp3_0d92b08a.pak",
+   "kind": "voice",
+   "bytes": 8181256,
+   "sha256": "0d92b08aaaea8e1afaf21fe05b2444dc507277ae0b95a86dc61b658f782d1641",
+   "codec": "mp3"
+  },
+  {
+   "file": "voice_mp3_fac27544.pak",
+   "kind": "voice",
+   "bytes": 1713723,
+   "sha256": "fac275442c9b1f6fc731b5883730c91ec5a885be442539011d6fd50ef89d3383",
+   "codec": "mp3"
+  }
+ ],
+ "total": 47199328
+}
