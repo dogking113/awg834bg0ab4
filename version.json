@@ -1,12 +1,12 @@
 {
-  "version": "알파 0.64a",
+  "version": "알파 0.64b",
   "kind": "private",
   "img": "inline",
-  "commit": "1511daa8",
-  "built": "2026-10-18T16:41:45.768Z",
-  "htmlBytes": 10133860,
+  "commit": "f646d882",
+  "built": "2026-10-20T09:33:06.104Z",
+  "htmlBytes": 10586674,
   "soundFiles": 19,
-  "soundBytes": 130360162,
+  "soundBytes": 131619752,
   "imgFiles": 0,
   "imgBytes": 0
 }
