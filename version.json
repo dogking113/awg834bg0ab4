@@ -1,13 +1,13 @@
 {
-  "ver": "알파 0.65b",
-  "version": "알파 0.65b",
+  "ver": "알파 0.65c",
+  "version": "알파 0.65c",
   "kind": "private",
   "img": "inline",
-  "commit": "f0177cd4",
-  "built": "2026-10-26T05:38:50.750Z",
-  "htmlBytes": 10750844,
+  "commit": "",
+  "built": "2026-10-29T03:12:32.620Z",
+  "htmlBytes": 10811328,
   "soundFiles": 19,
-  "soundBytes": 131619752,
+  "soundBytes": 132504218,
   "imgFiles": 0,
   "imgBytes": 0
 }
