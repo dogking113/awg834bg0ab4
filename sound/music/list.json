@@ -1,6 +1,6 @@
 {
  "overture": {
-  "file": "overture.mp3",
+  "file": "overture.mp3?v=845060a3",
   "gain": 0.455,
   "dur": 229.68,
   "grid": [
@@ -13,7 +13,7 @@
   ]
  },
  "frontline": {
-  "file": "frontline.mp3",
+  "file": "frontline.mp3?v=4924e435",
   "gain": 0.403,
   "dur": 229.2,
   "grid": [
@@ -26,7 +26,7 @@
   ]
  },
  "airsup": {
-  "file": "airsup.mp3",
+  "file": "airsup.mp3?v=19889e71",
   "gain": 0.358,
   "dur": 178.8,
   "grid": [
@@ -39,7 +39,7 @@
   ]
  },
  "greydawn": {
-  "file": "greydawn.mp3",
+  "file": "greydawn.mp3?v=08552d13",
   "gain": 0.534,
   "dur": 219.6,
   "grid": [
@@ -52,7 +52,7 @@
   ]
  },
  "lastsortie": {
-  "file": "lastsortie.mp3",
+  "file": "lastsortie.mp3?v=c48a56c2",
   "gain": 0.416,
   "dur": 257.64,
   "grid": [
@@ -65,7 +65,7 @@
   ]
  },
  "nightint": {
-  "file": "nightint.mp3",
+  "file": "nightint.mp3?v=a9001333",
   "gain": 0.545,
   "dur": 239.92,
   "grid": [
@@ -78,7 +78,7 @@
   ]
  },
  "knights": {
-  "file": "knights.mp3",
+  "file": "knights.mp3?v=50b27fc8",
   "gain": 0.378,
   "dur": 231.6,
   "grid": [
@@ -91,7 +91,7 @@
   ]
  },
  "ironstorm": {
-  "file": "ironstorm.mp3",
+  "file": "ironstorm.mp3?v=95aae9ec",
   "gain": 0.393,
   "dur": 231.56,
   "grid": [
@@ -104,7 +104,7 @@
   ]
  },
  "cmdnight": {
-  "file": "cmdnight.mp3",
+  "file": "cmdnight.mp3?v=8fdd6e35",
   "gain": 0.385,
   "dur": 239.88,
   "grid": [
@@ -117,7 +117,7 @@
   ]
  },
  "dogfight": {
-  "file": "dogfight.mp3",
+  "file": "dogfight.mp3?v=46c70371",
   "gain": 0.404,
   "dur": 169.56,
   "grid": [
@@ -130,11 +130,11 @@
   ]
  },
  "thunderhead": {
-  "file": "thunderhead.mp3",
+  "file": "thunderhead.mp3?v=bb706aa6",
   "gain": 0.398,
   "dur": 201.6,
   "grid": [
-   0.0,
+   0,
    2.2059
   ],
   "loop": [
@@ -143,7 +143,7 @@
   ]
  },
  "jetstream": {
-  "file": "jetstream.mp3",
+  "file": "jetstream.mp3?v=0df9babb",
   "gain": 0.484,
   "dur": 179.96,
   "grid": [
@@ -156,7 +156,7 @@
   ]
  },
  "ashes": {
-  "file": "ashes.mp3",
+  "file": "ashes.mp3?v=124b821f",
   "gain": 0.305,
   "dur": 259.88,
   "grid": [
@@ -169,7 +169,7 @@
   ]
  },
  "finalstand": {
-  "file": "finalstand.mp3",
+  "file": "finalstand.mp3?v=e9e1d152",
   "gain": 0.565,
   "dur": 159.52,
   "grid": [
@@ -182,7 +182,7 @@
   ]
  },
  "maproom": {
-  "file": "maproom.mp3",
+  "file": "maproom.mp3?v=ed127fc4",
   "gain": 0.288,
   "dur": 288.36,
   "grid": [
@@ -195,7 +195,7 @@
   ]
  },
  "coldfront": {
-  "file": "coldfront.mp3",
+  "file": "coldfront.mp3?v=4e5126f3",
   "gain": 0.392,
   "dur": 206.4,
   "grid": [
@@ -208,7 +208,7 @@
   ]
  },
  "dawnpatrol": {
-  "file": "dawnpatrol.mp3",
+  "file": "dawnpatrol.mp3?v=6d95ab87",
   "gain": 0.265,
   "dur": 247.16,
   "grid": [
@@ -221,7 +221,7 @@
   ]
  },
  "tutcard": {
-  "file": "tutcard.mp3",
+  "file": "tutcard.mp3?v=6022b504",
   "gain": 0.375,
   "dur": 39.26,
   "loop": [
