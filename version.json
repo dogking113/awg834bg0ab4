@@ -1,1 +1,13 @@
-{"ver":"알파 0.68e"}
+{
+  "ver": "알파 0.68f",
+  "version": "알파 0.68f",
+  "kind": "private",
+  "img": "inline",
+  "commit": "",
+  "built": "2026-11-24T18:40:34.229Z",
+  "htmlBytes": 40068141,
+  "soundFiles": 46,
+  "soundBytes": 199596198,
+  "imgFiles": 0,
+  "imgBytes": 0
+}

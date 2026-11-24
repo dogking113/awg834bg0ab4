@@ -56,6 +56,18 @@
    "sha256": "a2c82b6e676849ab942466e97475c7afb912ad7affcdabda3633758fd44e36b8"
   },
   {
+   "file": "voice_c2620fb7.pak",
+   "kind": "voice",
+   "bytes": 31208,
+   "sha256": "c2620fb7b009cf585c981318187889017199387de093dc0379f700f0d609dce0"
+  },
+  {
+   "file": "voice_ce06c43b.pak",
+   "kind": "voice",
+   "bytes": 2798302,
+   "sha256": "ce06c43b6d4c5cacad2a514ab2764d0df70b65a821735a3ac56a82b8952f95ea"
+  },
+  {
    "file": "voice_mp3_0ca26d7a.pak",
    "kind": "voice",
    "bytes": 8156705,
@@ -145,7 +157,21 @@
    "bytes": 139286,
    "sha256": "a0c39d1d4a3ce6c6c0f10a207b01f4d41f4fc11eae8570f609d0afc55169a3f1",
    "codec": "mp3"
+  },
+  {
+   "file": "voice_mp3_cfe7d06a.pak",
+   "kind": "voice",
+   "bytes": 60103,
+   "sha256": "cfe7d06ad79e4757974de1e34320d45a8d5c8e2e0fa5d4de89bf05a99b78b307",
+   "codec": "mp3"
+  },
+  {
+   "file": "voice_mp3_4cb5ca6f.pak",
+   "kind": "voice",
+   "bytes": 2953004,
+   "sha256": "4cb5ca6f62d3360bfde2ea7ee844ae1c8833f32de645d78b9459f3108a5894dc",
+   "codec": "mp3"
   }
  ],
- "total": 48044242
+ "total": 50873752
 }
